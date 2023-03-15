@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction-with-PySpark
 
-#Introduction
+# Introduction
 
 Customer churn prevention is a challenging problem for almost every product and service company. Predicting customer churn can provide valuable insights into user behavior and help companies identify key trends that could indicate which customers are at risk of churning. In this project, we aim to analyze web log data of a music streaming service to predict customer churn using PySpark and SparkML algorithms.
 
